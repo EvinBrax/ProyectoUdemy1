@@ -1,0 +1,12 @@
+K:\PERSONAL\PROYECTOS_PESONALES\PROYECTOS_2021\Udemy_SISTEMASC#\PROYECTO_01\DES\Sistema01\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+K:\PERSONAL\PROYECTOS_PESONALES\PROYECTOS_2021\Udemy_SISTEMASC#\PROYECTO_01\DES\Sistema01\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+K:\PERSONAL\PROYECTOS_PESONALES\PROYECTOS_2021\Udemy_SISTEMASC#\PROYECTO_01\DES\Sistema01\Sistema.Entidades\obj\Debug\Sistema.Entidades.csprojAssemblyReference.cache
+K:\PERSONAL\PROYECTOS_PESONALES\PROYECTOS_2021\Udemy_SISTEMASC#\PROYECTO_01\DES\Sistema01\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+K:\PERSONAL\PROYECTOS_PESONALES\PROYECTOS_2021\Udemy_SISTEMASC#\PROYECTO_01\DES\Sistema01\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+K:\PERSONAL\PROYECTOS_PESONALES\PROYECTOS_2021\Udemy_SISTEMASC#\PROYECTO_01\DES\Sistema01\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\PROYECTS\SISTEMA_CAPAS\DES\Sistema01\Sistema.Entidades\bin\Debug\Sistema.Entidades.dll
+C:\PROYECTS\SISTEMA_CAPAS\DES\Sistema01\Sistema.Entidades\bin\Debug\Sistema.Entidades.pdb
+C:\PROYECTS\SISTEMA_CAPAS\DES\Sistema01\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\PROYECTS\SISTEMA_CAPAS\DES\Sistema01\Sistema.Entidades\obj\Debug\Sistema.Entidades.dll
+C:\PROYECTS\SISTEMA_CAPAS\DES\Sistema01\Sistema.Entidades\obj\Debug\Sistema.Entidades.pdb
+C:\PROYECTS\SISTEMA_CAPAS\DES\Sistema01\Sistema.Entidades\obj\Debug\Sistema.Entidades.csproj.AssemblyReference.cache

@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|c:\\proyects\\sistema_capas\\des\\sistema01\\sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D9F00A-0F6B-4181-AA46-0F91702DBBF6}|Sistema.Datos\\Sistema.Datos.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D9F00A-0F6B-4181-AA46-0F91702DBBF6}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.presentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D08258-B613-4B27-BDB9-7ED9459CF0A4}|Sistema.Negocio\\Sistema.Negocio.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.negocio\\ngarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D08258-B613-4B27-BDB9-7ED9459CF0A4}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\ngarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D9F00A-0F6B-4181-AA46-0F91702DBBF6}|Sistema.Datos\\Sistema.Datos.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.datos\\bdcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D9F00A-0F6B-4181-AA46-0F91702DBBF6}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\bdcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D9F00A-0F6B-4181-AA46-0F91702DBBF6}|Sistema.Datos\\Sistema.Datos.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.datos\\bdarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D9F00A-0F6B-4181-AA46-0F91702DBBF6}|Sistema.Datos\\Sistema.Datos.csproj|solutionrelative:sistema.datos\\bdarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D08258-B613-4B27-BDB9-7ED9459CF0A4}|Sistema.Negocio\\Sistema.Negocio.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.negocio\\ngcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D08258-B613-4B27-BDB9-7ED9459CF0A4}|Sistema.Negocio\\Sistema.Negocio.csproj|solutionrelative:sistema.negocio\\ngcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\sistema.presentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D0F4C98-22D2-4EDE-916B-73F370506E80}|Sistema.Presentacion\\Sistema.Presentacion.csproj|solutionrelative:sistema.presentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\App.config",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\App.config",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\App.config",
+              "RelativeToolTip": "Sistema.Presentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-04T02:04:01.349Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\Conexion.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Datos\\Conexion.cs",
+              "RelativeToolTip": "Sistema.Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:50:30.369Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BDCategoria.cs",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Datos\\BDCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\BDCategoria.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Datos\\BDCategoria.cs",
+              "RelativeToolTip": "Sistema.Datos\\BDCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:32:02.825Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NGCategoria.cs",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Negocio\\NGCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NGCategoria.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Negocio\\NGCategoria.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NGCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:07:40.873Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BDArticulo.cs",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Datos\\BDArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Datos\\BDArticulo.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Datos\\BDArticulo.cs",
+              "RelativeToolTip": "Sistema.Datos\\BDArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:21:59.262Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NGArticulo.cs",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Negocio\\NGArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Negocio\\NGArticulo.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Negocio\\NGArticulo.cs",
+              "RelativeToolTip": "Sistema.Negocio\\NGArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:11:08.315Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FRMPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FRMPrincipal.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FRMPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:01:51.987Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FRMPrincipal.cs",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMPrincipal.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FRMPrincipal.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMPrincipal.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FRMPrincipal.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwCgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T02:02:02.434Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FRMCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FRMCategoria.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FRMCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:43:57.101Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FRMCategoria.cs",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMCategoria.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FRMCategoria.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMCategoria.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FRMCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:46:43.108Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FRMArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FRMArticulo.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema.Presentacion\\FRMArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:42:58.856Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FRMArticulo.cs",
+              "DocumentMoniker": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMArticulo.cs",
+              "RelativeDocumentMoniker": "Sistema.Presentacion\\FRMArticulo.cs",
+              "ToolTip": "C:\\PROYECTS\\SISTEMA_CAPAS\\DES\\Sistema01\\Sistema.Presentacion\\FRMArticulo.cs",
+              "RelativeToolTip": "Sistema.Presentacion\\FRMArticulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T01:46:04.978Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
